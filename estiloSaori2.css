@@ -1,0 +1,94 @@
+.html{
+    scroll-behavior: smooth;
+}
+
+
+body {
+    position: relative; 
+}
+
+
+#logo{
+    width: 45px;
+    height: 45px;
+    margin-top: -6px;
+}
+
+.nvt1{
+    color: white;
+}
+
+.col{
+    background-color: rgba(255, 0, 200, 0.726);
+    text-shadow: 50px 0px 50px rgb(0,0,0);
+}
+
+.btn{
+    background-color: rgb(243, 6, 255);
+    color: black;
+    text-shadow: black;
+}
+
+
+.content1-back{
+    background-image: url("imagens/saorizinha2.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+.content1{
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.content2-back{
+    background-image: url("imagens/saorizinha2.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.content2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.content3-back{
+    background-image: url("imagens/saorizinha.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 225px;
+    padding-bottom: 225px;
+}
+
+.content3{
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+
+.content4-back{
+    background-image: url("imagens/bg4.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.containerbt{
+    background-color: rgba(0, 0, 0, 0.678)
+}
